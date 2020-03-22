@@ -1,0 +1,17 @@
+.board{
+    display: grid;
+    grid-template-columns: repeat(8, 50px);
+    background-color: black;
+    padding: 10px;
+    width: 400px;
+}
+.tan{
+    background-color: tan;
+    border: 1px solid black;
+    padding: 20px;
+}
+.brown{
+    background-color: brown;
+    border: 1px solid black;
+    padding: 20px;
+}
